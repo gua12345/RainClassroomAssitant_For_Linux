@@ -2,3 +2,6 @@ pyttsx3==2.90
 requests==2.27.1
 urllib3==1.26.4
 websocket_client==1.4.0
+selenium==4.25.0
+pillow==9.3.0
+opencv-python-headless==4.5.5.62
